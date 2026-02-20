@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mettilda 👋
 
-<!--
-**mettilda-ml/mettilda-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst / ML Engineer  
+📍 Currently learning Python, Pandas & Machine Learning  
+💡 Restarting my IT career with strong dedication  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Git & GitHub
+
+---
+
+## 🚀 Goals
+- Build strong ML projects
+- Improve problem solving
+- Get placed in IT as Data Analyst / ML Engineer
+
+---
+
+🌱 Learning something new every day!
